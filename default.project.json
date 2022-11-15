@@ -1,0 +1,11 @@
+{
+  "name": "LightingTool",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "LightApp": {
+        "$path": "src"
+      }
+    }
+  }
+}
